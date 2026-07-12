@@ -1,1 +1,2 @@
 - [JanConnect AI web port](janconnect-web-port.md) — porting a Vite/Tailwind-v3/react-router app into this workspace's scaffold: router/leaflet/theme choices to reuse.
+- [passlib + bcrypt incompatibility](passlib-bcrypt-incompatibility.md) — passlib's bcrypt backend breaks on bcrypt>=4.1; call bcrypt directly instead.
